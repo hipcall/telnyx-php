@@ -1,6 +1,6 @@
 # Telnyx PHP SDK from Hipcall
 
-We (Hipcall) need to extend Telnyx PHP SDK for some reason. If you are
+We ([Hipcall])[https://www.hipcall.com] need to extend Telnyx PHP SDK for some reason. If you are
 Telnyx user please use their official [PHP SDK](https://packagist.org/packages/telnyx/telnyx-php).
 
 The Telnyx PHP library provides convenient access to the Telnyx API from
